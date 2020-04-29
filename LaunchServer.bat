@@ -17,5 +17,5 @@ if $SYSTEM_os_arch==x86 (
   echo OS is 64
   set mem=%memsixtyfour%
 )
-java -Xmx%mem% -XX:MaxPermSize=256M -jar forge-1.12.2-14.23.5.2847-universal.jar
+java -Xmx%mem% -XX:MaxPermSize=256M -jar forge-1.12.2-14.23.5.2854.jar
 PAUSE

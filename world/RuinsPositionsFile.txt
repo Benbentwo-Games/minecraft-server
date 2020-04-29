@@ -9,13 +9,16 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
--351 69 219 -344 73 226 TinyFarmField.tml
--329 74 357 -319 79 367 RuinedSmallFountainDiagonal.tml
--280 75 436 -276 77 440 EmeraldOreOutcrop.tml
--207 66 139 -203 72 142 StonePillar.tml
--191 87 268 -186 90 275 Melonfield.tml
--183 75 346 -171 84 356 StoneHouseMruined.tml
--123 84 152 -116 87 157 PumpkinField.tml
--31 112 260 -24 121 267 Outcrop.tml
-6 68 10 10 70 14 EmeraldOreOutcrop.tml
-31 68 387 35 70 391 EmeraldOreOutcrop.tml
+-212 78 425 -207 81 432 Melonfield.tml
+-179 75 57 -172 79 64 TinyFarmField.tml
+-178 76 178 -171 85 185 Outcrop.tml
+-158 71 299 -148 76 309 RuinedSmallFountainDiagonal.tml
+-97 62 61 -90 65 66 PumpkinField.tml
+-77 64 180 -68 79 189 MoaiHead.tml
+-48 72 375 -41 76 382 TinyFarmField.tml
+-8 65 75 -3 70 82 ZombieHut.tml
+12 71 279 16 77 282 StonePillar.tml
+24 45 188 50 62 196 shipwreck.tml
+120 44 328 131 60 364 SunkenShip-v3.tml
+120 44 207 131 68 243 SunkenShip-v2.tml
+137 98 91 148 109 100 ArrowTrapTomb.tml

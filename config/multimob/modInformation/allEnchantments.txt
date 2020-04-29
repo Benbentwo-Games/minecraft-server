@@ -83,12 +83,12 @@ openblocks:last_stand
 openblocks:flim_flam
 projectred-expansion:electric_efficiency
 randomthings:magnetic
-endercore:autosmelt
 endercore:xpboost
-enderio:repellent
-enderio:shimmer
+endercore:autosmelt
 enderio:witherweapon
 enderio:soulbound
+enderio:repellent
+enderio:shimmer
 enderio:witherarrow
 bibliocraft:bibliocraft.deathcompassench
 bibliocraft:bibliocraft.readingench

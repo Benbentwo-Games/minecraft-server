@@ -1,4 +1,4 @@
-17359 nodes in total
+17342 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -2079,14 +2079,11 @@ ftbutilities.claims.block.edit.forestry.bee_house: OP
 ftbutilities.claims.block.edit.forestry.beehives: OP
 ftbutilities.claims.block.edit.forestry.bog_earth: OP
 ftbutilities.claims.block.edit.forestry.bottler: OP
-ftbutilities.claims.block.edit.forestry.butterfly_chest: OP
 ftbutilities.claims.block.edit.forestry.candle: OP
 ftbutilities.claims.block.edit.forestry.carpenter: OP
 ftbutilities.claims.block.edit.forestry.centrifuge: OP
 ftbutilities.claims.block.edit.forestry.charcoal: OP
 ftbutilities.claims.block.edit.forestry.climatiser: OP
-ftbutilities.claims.block.edit.forestry.cocoon.solid: OP
-ftbutilities.claims.block.edit.forestry.cocoon: OP
 ftbutilities.claims.block.edit.forestry.database: OP
 ftbutilities.claims.block.edit.forestry.doors.acacia: OP
 ftbutilities.claims.block.edit.forestry.doors.balsa: OP
@@ -3565,7 +3562,6 @@ ftbutilities.claims.block.edit.openblocks.elevator_rotating: OP
 ftbutilities.claims.block.edit.openblocks.fan: OP
 ftbutilities.claims.block.edit.openblocks.flag: OP
 ftbutilities.claims.block.edit.openblocks.golden_egg: OP
-ftbutilities.claims.block.edit.openblocks.grave: ALL
 ftbutilities.claims.block.edit.openblocks.guide: OP
 ftbutilities.claims.block.edit.openblocks.heal: OP
 ftbutilities.claims.block.edit.openblocks.imaginary: OP
@@ -6398,14 +6394,11 @@ ftbutilities.claims.block.interact.forestry.bee_house: OP
 ftbutilities.claims.block.interact.forestry.beehives: OP
 ftbutilities.claims.block.interact.forestry.bog_earth: OP
 ftbutilities.claims.block.interact.forestry.bottler: OP
-ftbutilities.claims.block.interact.forestry.butterfly_chest: OP
 ftbutilities.claims.block.interact.forestry.candle: OP
 ftbutilities.claims.block.interact.forestry.carpenter: OP
 ftbutilities.claims.block.interact.forestry.centrifuge: OP
 ftbutilities.claims.block.interact.forestry.charcoal: OP
 ftbutilities.claims.block.interact.forestry.climatiser: OP
-ftbutilities.claims.block.interact.forestry.cocoon.solid: OP
-ftbutilities.claims.block.interact.forestry.cocoon: OP
 ftbutilities.claims.block.interact.forestry.database: OP
 ftbutilities.claims.block.interact.forestry.doors.acacia: ALL
 ftbutilities.claims.block.interact.forestry.doors.balsa: ALL
@@ -7884,7 +7877,6 @@ ftbutilities.claims.block.interact.openblocks.elevator_rotating: OP
 ftbutilities.claims.block.interact.openblocks.fan: OP
 ftbutilities.claims.block.interact.openblocks.flag: OP
 ftbutilities.claims.block.interact.openblocks.golden_egg: OP
-ftbutilities.claims.block.interact.openblocks.grave: OP
 ftbutilities.claims.block.interact.openblocks.guide: OP
 ftbutilities.claims.block.interact.openblocks.heal: OP
 ftbutilities.claims.block.interact.openblocks.imaginary: OP
@@ -12089,8 +12081,6 @@ ftbutilities.claims.item.forestry.bronze_pickaxe: ALL
 ftbutilities.claims.item.forestry.bronze_shovel: ALL
 ftbutilities.claims.item.forestry.builder_bag: ALL
 ftbutilities.claims.item.forestry.builder_bag_t2: ALL
-ftbutilities.claims.item.forestry.butterfly_chest: ALL
-ftbutilities.claims.item.forestry.butterfly_ge: ALL
 ftbutilities.claims.item.forestry.can: ALL
 ftbutilities.claims.item.forestry.candle: ALL
 ftbutilities.claims.item.forestry.capsule: ALL
@@ -12098,14 +12088,10 @@ ftbutilities.claims.item.forestry.carpenter: ALL
 ftbutilities.claims.item.forestry.cart.beehouse: ALL
 ftbutilities.claims.item.forestry.carton: ALL
 ftbutilities.claims.item.forestry.catalogue: ALL
-ftbutilities.claims.item.forestry.caterpillar_ge: ALL
 ftbutilities.claims.item.forestry.centrifuge: ALL
 ftbutilities.claims.item.forestry.charcoal: ALL
 ftbutilities.claims.item.forestry.chipsets: ALL
 ftbutilities.claims.item.forestry.climatiser: ALL
-ftbutilities.claims.item.forestry.cocoon.solid: ALL
-ftbutilities.claims.item.forestry.cocoon: ALL
-ftbutilities.claims.item.forestry.cocoon_ge: ALL
 ftbutilities.claims.item.forestry.crafting_material: ALL
 ftbutilities.claims.item.forestry.crate: ALL
 ftbutilities.claims.item.forestry.crated.blockcactus: ALL
@@ -12433,7 +12419,6 @@ ftbutilities.claims.item.forestry.leaves.default.8: ALL
 ftbutilities.claims.item.forestry.leaves.default.fruit.0: ALL
 ftbutilities.claims.item.forestry.leaves.default.fruit.1: ALL
 ftbutilities.claims.item.forestry.leaves: ALL
-ftbutilities.claims.item.forestry.lepidopterist_bag: ALL
 ftbutilities.claims.item.forestry.letters: ALL
 ftbutilities.claims.item.forestry.loam: ALL
 ftbutilities.claims.item.forestry.logs.0: ALL
@@ -12487,7 +12472,6 @@ ftbutilities.claims.item.forestry.royal_jelly: ALL
 ftbutilities.claims.item.forestry.sapling: ALL
 ftbutilities.claims.item.forestry.sapling_ge: ALL
 ftbutilities.claims.item.forestry.scoop: ALL
-ftbutilities.claims.item.forestry.serum_ge: ALL
 ftbutilities.claims.item.forestry.slabs.0: ALL
 ftbutilities.claims.item.forestry.slabs.1: ALL
 ftbutilities.claims.item.forestry.slabs.2: ALL
@@ -15419,7 +15403,6 @@ ftbutilities.claims.item.openblocks.generic_unstackable: ALL
 ftbutilities.claims.item.openblocks.glyph: ALL
 ftbutilities.claims.item.openblocks.golden_egg: ALL
 ftbutilities.claims.item.openblocks.golden_eye: ALL
-ftbutilities.claims.item.openblocks.grave: ALL
 ftbutilities.claims.item.openblocks.guide: ALL
 ftbutilities.claims.item.openblocks.hang_glider: ALL
 ftbutilities.claims.item.openblocks.heal: ALL

@@ -1,0 +1,32 @@
+{
+  "buildcraftenergy:sticky_dipping": {
+    "criteria": {
+      "oil": "2020-04-29 18:57:05 -0400"
+    },
+    "done": true
+  },
+  "dungeontactics:dungeoneering/born_survivor": {
+    "criteria": {
+      "stab": "2020-04-29 18:56:36 -0400"
+    },
+    "done": false
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-04-29 18:56:46 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2020-04-29 18:56:46 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2020-04-29 18:56:42 -0400"
+    },
+    "done": true
+  }
+}
