@@ -1,4 +1,4 @@
-17344 nodes in total
+17359 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -2045,6 +2045,10 @@ ftbutilities.claims.block.edit.extrautils2.trashcanenergy: OP
 ftbutilities.claims.block.edit.extrautils2.trashcanfluid: OP
 ftbutilities.claims.block.edit.extrautils2.trashchest: OP
 ftbutilities.claims.block.edit.extrautils2.user: OP
+ftbutilities.claims.block.edit.fluidcows.accelerator: OP
+ftbutilities.claims.block.edit.fluidcows.feeder: OP
+ftbutilities.claims.block.edit.fluidcows.sorter: OP
+ftbutilities.claims.block.edit.fluidcows.stall: OP
 ftbutilities.claims.block.edit.fluxnetworks.fluxblock: OP
 ftbutilities.claims.block.edit.fluxnetworks.fluxcontroller: OP
 ftbutilities.claims.block.edit.fluxnetworks.fluxplug: OP
@@ -6360,6 +6364,10 @@ ftbutilities.claims.block.interact.extrautils2.trashcanenergy: OP
 ftbutilities.claims.block.interact.extrautils2.trashcanfluid: OP
 ftbutilities.claims.block.interact.extrautils2.trashchest: OP
 ftbutilities.claims.block.interact.extrautils2.user: OP
+ftbutilities.claims.block.interact.fluidcows.accelerator: OP
+ftbutilities.claims.block.interact.fluidcows.feeder: OP
+ftbutilities.claims.block.interact.fluidcows.sorter: OP
+ftbutilities.claims.block.interact.fluidcows.stall: OP
 ftbutilities.claims.block.interact.fluxnetworks.fluxblock: OP
 ftbutilities.claims.block.interact.fluxnetworks.fluxcontroller: OP
 ftbutilities.claims.block.interact.fluxnetworks.fluxplug: OP
@@ -12016,6 +12024,13 @@ ftbutilities.claims.item.extrautils2.unstableingots: ALL
 ftbutilities.claims.item.extrautils2.user: ALL
 ftbutilities.claims.item.extrautils2.wateringcan: ALL
 ftbutilities.claims.item.extrautils2.wrench: ALL
+ftbutilities.claims.item.fluidcows.accelerator: ALL
+ftbutilities.claims.item.fluidcows.cow_displayer: ALL
+ftbutilities.claims.item.fluidcows.cow_halter: ALL
+ftbutilities.claims.item.fluidcows.feeder: ALL
+ftbutilities.claims.item.fluidcows.ranger: ALL
+ftbutilities.claims.item.fluidcows.sorter: ALL
+ftbutilities.claims.item.fluidcows.stall: ALL
 ftbutilities.claims.item.fluxnetworks.adminconfigurator: ALL
 ftbutilities.claims.item.fluxnetworks.flux: ALL
 ftbutilities.claims.item.fluxnetworks.fluxblock: ALL
