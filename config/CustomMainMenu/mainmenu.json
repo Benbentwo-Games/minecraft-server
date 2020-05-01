@@ -39,7 +39,7 @@
              "action" :
             {
                 "type" : "openLink",
-                "link" : "https://discord.resonantri.se"
+                "link" : "https://discord.gg/u8ZFeNF"
             }
         },
 		"singleplayer":
@@ -139,7 +139,7 @@
                 "type" : "quit"
             }
         },
-    
+
         "refresh":
         {
             "text" : "Refresh",
